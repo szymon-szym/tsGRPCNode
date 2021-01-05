@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@types/source-map-support": "^0.5.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "google-protobuf": "^3.11.3",
     "grpc": "^1.24.2",
